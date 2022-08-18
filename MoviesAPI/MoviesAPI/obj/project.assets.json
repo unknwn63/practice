@@ -587,11 +587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\400196\\Desktop\\lessons\\ASP\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\400196\\Desktop\\github-practice\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
       "projectName": "MoviesAPI",
-      "projectPath": "C:\\Users\\400196\\Desktop\\lessons\\ASP\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+      "projectPath": "C:\\Users\\400196\\Desktop\\github-practice\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
       "packagesPath": "C:\\Users\\400196\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\400196\\Desktop\\lessons\\ASP\\MoviesAPI\\MoviesAPI\\obj\\",
+      "outputPath": "C:\\Users\\400196\\Desktop\\github-practice\\MoviesAPI\\MoviesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\400196\\AppData\\Roaming\\NuGet\\NuGet.Config",

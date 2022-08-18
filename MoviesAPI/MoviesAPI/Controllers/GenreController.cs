@@ -9,6 +9,7 @@ using MoviesAPI.Services;
 namespace MoviesAPI.Controllers
 {
     [Route("api/genre")] // endpoint between client and controler
+    // random edit
     [ApiController]
     public class GenreController : ControllerBase
     {
