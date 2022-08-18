@@ -10,6 +10,7 @@ namespace MoviesAPI.Controllers
 {
     [Route("api/genre")] // endpoint between client and controler
     // random edit
+    // another meaningless edit 
     [ApiController]
     public class GenreController : ControllerBase
     {
